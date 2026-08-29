@@ -2,7 +2,7 @@
 
 resources:
   jobs:
-    sample_job:
+    pl_metadata_creation:
       name: pl_metadata_creation
 
       trigger:
